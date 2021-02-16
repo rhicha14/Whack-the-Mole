@@ -1,0 +1,10 @@
+Instructions for Whack a Mole Game: 
+
+Welcome! 
+Press "Start" to play the whack-a-mole game. Press "Back to Menu" to revert back to the menu page. 
+
+This game was created by Amy Kwan in the summer of 2017, supervised by Dr. Regan Mandryk, as a game used to examine target acquisition and mental health. The mole targets will be spawned in predetermined positions upon the 3x3 hole layout, while also ranging in size from a small, medium to large depending on the position and the distance traveled by the mole. 
+
+Mouse activity (and its respective time) of the user, and information regarding the mole target (size, distance, location, whether or not the user successfully "whacked" the mole in one click, and the time of acquisition of the mole target will be logged. 
+
+The following fonts were used in this game and credits go out to their respective creators. Fonts were downloaded from http://dafont.com: Justin Road, Fishermills, UGLYBOY, Peony (Regular). 
